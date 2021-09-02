@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+  font-weight: normal;
+}
+
+body {
+  margin: 0px;
+}
+
+.content {
+  margin: 20px;
+  margin-top: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.content .logo {
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 70%;
+}
+
+.content .logo a {
+  width: 100%;
+}
+
+.content .logo a img {
+  width: 100%;
+}
+
+.content .story {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.content .story h1 {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: x-large;
+}
+
+.content .story p {
+  margin: 0px;
+  text-align: justify;
+  font-size: large;
+}
+/*# sourceMappingURL=style.css.map */
